@@ -1,7 +1,7 @@
 # California Wine Production Analysis (1980–2020) 🍷
 
 A machine learning project to analyze and predict wine grape production
-across 42 counties in California over 40 years using regression models.
+across 42 counties in California over 40 years using regression models. 
 
 ## Problem statement
 California is the largest wine-producing state in the US. This project
