@@ -1,5 +1,3 @@
-# Californa_Wine_Production_1980_2020
-
 # California Wine Production Analysis (1980–2020) 🍷
 
 A machine learning project to analyze and predict wine grape production
